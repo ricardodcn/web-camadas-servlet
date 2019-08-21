@@ -37,6 +37,7 @@ public class PrimeiroServlet extends HttpServlet {
 	    out.println("</head>");
 	    out.println("<body>");
 	    out.println("<h1>Oi mundo Servlet!</h1>");
+	    out.println("<h2>Segundo título!</h2>");
 	    out.println("</body>");
 	    out.println("</html>");
 	}
